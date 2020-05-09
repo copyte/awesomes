@@ -1,0 +1,25 @@
+{
+  "name": "awesomes",
+  "version": "1.0.0",
+  "description": "1. [angular](https://github.com/angular/angular.git) 2. [vue](https://github.com/vuejs/vue.git) 3. [react](https://github.com/facebook/react.git)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copyte/awesomes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/copyte/awesomes/issues"
+  },
+  "homepage": "https://github.com/copyte/awesomes#readme",
+  "dependencies": {
+    "@types/node": "^13.13.5",
+    "ts-node": "^8.10.1",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^3.8.3"
+  }
+}
